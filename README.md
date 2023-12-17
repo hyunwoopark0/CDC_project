@@ -9,7 +9,7 @@
 ### Mysql replication setting
 ---
 
-vim 설치
+- vim 설치 </br>
 $ apt-get update
 $ apt-get install -y vim
 
