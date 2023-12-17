@@ -4,9 +4,13 @@
 
 ![image](https://github.com/hyunwoopark0/CDC_project/assets/144861873/7923a718-8225-4bc2-b862-a01eec3cc315)
 
+
+
 ### Mysql replication setting
+---
 
 - vim 설치
+- 
 $ apt-get update
 $ apt-get install -y vim
 
