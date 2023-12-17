@@ -9,12 +9,11 @@
 ### Mysql replication setting
 ---
 
-- vim 설치
-- 
+vim 설치
 $ apt-get update
 $ apt-get install -y vim
 
-- mysql 설정
+ mysql 설정
 $ vim /etc/mysql/my.cnf 
 log-bin=mysql-bin  
 server-id=1
