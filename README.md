@@ -15,8 +15,8 @@ $ apt-get install -y vim </br>
 
 - mysql 설정 </br>
 $ vim /etc/mysql/my.cnf </br>
-log-bin=mysql-bin  </br>
-server-id=1 </br>
+  log-bin=mysql-bin  </br>
+  server-id=1 </br>
 
 - 계정 생성 후 권한 적용 </br>
 $ CREATE USER 'use id'@'%' IDENTIFIED BY 'use pw'; </br>
