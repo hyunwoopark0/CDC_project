@@ -2,4 +2,4 @@
 
 ---
 
-<img src="https://github.com/hyunwoopark0/CDC_project/assets/144861873/6badd380-9e85-49aa-962b-2810868af253" width="1800" height="500">
+![image](https://github.com/hyunwoopark0/CDC_project/assets/144861873/d67c5ec1-e1c5-48c9-932a-9f20d8d4a04b)
